@@ -1,7 +1,5 @@
 # Exit Pois
 
-**Exit Pois** is a 2D puzzle-strategy game developed in Unity, inspired by the popular "Exit Pois" game from TikTok. The player must navigate through a procedurally generated grid of cells, from the "START" point to the "EXIT," avoiding obstacles and visiting all open cells before reaching the exit. The game features intuitive mouse-based controls, procedurally generated levels, and a hint system to guide players through more challenging puzzles.
-
 ## Demo
 
 Play the demo on Vercel using the following link: [Exit Pois - Demo](https://exit-pois-demo.vercel.app/)
