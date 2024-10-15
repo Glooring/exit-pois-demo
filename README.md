@@ -4,7 +4,7 @@
 
 ## Demo
 
-Play the demo on Vercel using the following link: [Exit Pois - Demo](https://your-vercel-demo-link.vercel.app)
+Play the demo on Vercel using the following link: [Exit Pois - Demo](https://exit-pois-demo.vercel.app/)
 
 ---
 
